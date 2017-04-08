@@ -1,0 +1,62 @@
+{
+	"anytime" : [
+		"Anytime 1"
+	],
+    "morning" : [
+        "Good morning!",
+    ],
+    "afternoon" : [
+        "Hitting your stride!",
+    ],
+    "evening" : [
+        "COMPLIMENT",
+    ],
+    "day_sunny" : [
+        "Looks like it'll be a delightful day!",
+    ],
+    "day_cloudy" : [
+        "COMPLIMENT",
+    ],
+    "cloudy" : [
+        "COMPLIMENT",
+    ],
+    "cloudy_windy" : [
+        "COMPLIMENT",
+    ],
+    "showers" : [
+        "COMPLIMENT",
+    ],
+    "rain" : [
+        "Don't forget your umbrella",
+    ],
+    "thunderstorm" : [
+        "No flying kites with keys today :(",
+    ],
+    "snow" : [
+        "In Canberra??",
+    ],
+    "fog" : [
+        "COMPLIMENT",
+    ],
+    "night_clear" : [
+        "COMPLIMENT",
+    ],
+    "night_cloudy" : [
+        "COMPLIMENT",
+    ],
+    "night_showers" : [
+        "Some calming rain",
+    ],
+    "night_rain" : [
+        "COMPLIMENT",
+    ],
+    "night_thunderstorm" : [
+        "Please don't fry my circuits!! D:",
+    ],
+    "night_snow" : [
+        "COMPLIMENT",
+    ],
+    "night_alt_cloudy_windy" : [
+        "COMPLIMENT",
+    ]
+}
